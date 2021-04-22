@@ -1,0 +1,2 @@
+1.通过spring的IOC功能完成helloworld类的实例化
+2.全注解

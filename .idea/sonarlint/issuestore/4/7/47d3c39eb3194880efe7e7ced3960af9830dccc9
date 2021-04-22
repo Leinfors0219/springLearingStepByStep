@@ -1,0 +1,53 @@
+
+c
+java:S2095¿"LUse try-with-resources or close this "URLClassLoader" in a "finally" clause.(ÂñÄ
+J
+java:S3740 "/Provide the parametrized type for this generic.(Ö™Î›ûÿÿÿÿ
+J
+java:S3740?"/Provide the parametrized type for this generic.(†‹Âäùÿÿÿÿ
+J
+java:S3740d"/Provide the parametrized type for this generic.(ºıñ…şÿÿÿÿ
+J
+java:S3740l"/Provide the parametrized type for this generic.(×´€Øûÿÿÿÿ
+E
+java:S3740~"/Provide the parametrized type for this generic.(Üô¦¬
+K
+java:S3740"/Provide the parametrized type for this generic.(˜œÁÇùÿÿÿÿ
+K
+java:S3740¤"/Provide the parametrized type for this generic.(¶Ô’ñıÿÿÿÿ
+K
+java:S3740¤"/Provide the parametrized type for this generic.(¶Ô’ñıÿÿÿÿ
+K
+java:S3740À"/Provide the parametrized type for this generic.(Ñ­òşÿÿÿÿ
+F
+java:S3740Í"/Provide the parametrized type for this generic.(‰Ã¢ù
+K
+java:S3740ğ"/Provide the parametrized type for this generic.(Ú€Ñ×úÿÿÿÿ
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(‘ùš™ûÿÿÿÿ
+[	java:S112<"FDefine and throw a dedicated exception instead of using a generic one.(¾æÇı
+3
+java:S1643º"Use a StringBuilder instead.(¥ÍÂ¤
+D
+java:S1604¯"(Make this anonymous inner class a lambda(Îí§‡úÿÿÿÿ
+K
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(òÄëâÿÿÿÿÿ
+b
+java:S1871L"LThis branch's code block is the same as the block for the branch on line 74.(¯Ğ«–
+>	java:S108J")Either remove or fill this block of code.(Ä³ÈÀ
+>	java:S108L")Either remove or fill this block of code.(¯Ğ«–
+S	java:S106m"9Replace this use of System.out or System.err by a logger.(Ó¯š»üÿÿÿÿ
+2
+java:S3626ˆ"Remove this redundant jump.(ÉŠ©ƒ
+d
+java:S5361™"HReplace this call to "replaceAll()" by a call to the "replace()" method.(û˜ãüÿÿÿÿ
+O	java:S106š"9Replace this use of System.out or System.err by a logger.(‰¥ëË
+O	java:S106"9Replace this use of System.out or System.err by a logger.(¨¢¥Ï
+I
+java:S1135Ÿ"2Complete the task associated to this TODO comment.(¥ÔŞ«
+u
+java:S2293¤"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶Ô’ñıÿÿÿÿ
+W	java:S125®"<This block of commented-out lines of code should be removed.(ƒ’Ğ±ûÿÿÿÿ
+W	java:S125µ"<This block of commented-out lines of code should be removed.(¬ÉÚÌøÿÿÿÿ
+I
+java:S1135Õ"2Complete the task associated to this TODO comment.(Ì—Œå
